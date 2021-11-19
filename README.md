@@ -1,6 +1,12 @@
 # Survey API
 A small api to create, view and take surveys.
 
+## Setup locally
+- Clone the repo using `https://github.com/mayan-sharma/survey-api.git`
+- cd `survey-api`
+- run `npm install`
+- run `npm run start`
+
 ## API Reference
 
 ### `/api/login`
